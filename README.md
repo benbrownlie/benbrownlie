@@ -5,7 +5,6 @@ Hello I'm Benjamin, I'm a Game Programmer and aspiring Narrative Designer. I've 
 #### Links
 * [LinkedIn](https://www.linkedin.com/in/benjamin-brownlie-85b2031bb/)
 * [Resume]()
-* [Itch.io]()
 
 ## Projects
 
