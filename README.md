@@ -4,7 +4,7 @@ Hello I'm Benjamin, I'm a Game Programmer and Narrative Designer. I've loved wri
 
 #### Links
 * [LinkedIn](https://www.linkedin.com/in/benjamin-brownlie)
-* [Resume](file:///C:/Users/s208049/Desktop/Major%20Production%20Assessment/New%20folder/Resume.pdf)
+* [Resume](file:///C:/Users/s208049/Desktop/Resume.pdf)
 
 ## Projects
 
@@ -17,7 +17,7 @@ A project I worked on at the end of my second year at the Academy of Interactive
 * [Itch.io Page](https://osirisstudios.itch.io/wait-paws-rewind)
 
 ## Taverner.
-![Taverner]()
+![Taverner](Assets/Images/unknown.png)
 
 
 A project I worked on at the end of my first year at the Academy of Interactive Entertainment(AIE). I developed the Movement, Drink Serving, and Point Systems present in game.
