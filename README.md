@@ -11,7 +11,7 @@ Hello I'm Benjamin, I'm a Game Programmer and aspiring Narrative Designer. I've 
 
 
 ## Wait, Paws, Rewind.
-![Wait,Paws,Rewind](https://media.discordapp.net/attachments/935553734711337017/986995750875586560/unknown.png?width=810&height=456)
+![Wait,Paws,Rewind](Assets/Images/waitpawsrewindcover.png)
 
 Wait, Paws, Rewind is a game made by Osiris Studios, a team I was on during the major production period at my school. It is a movement based 3D platformer where the player, Tin, must make their way to the end of the level and escape. I developed all the movement based mechanics present in-game.
 
