@@ -1,5 +1,5 @@
 ## About Me
-Hello I'm Benjamin, I'm a Game Programmer and aspiring Narrative Designer. I've loved writing and game design for as long as I can remember which drew me to learn Game Programming at the Academy of Interactive Entertainment.
+Hello I'm Benjamin, I'm a Game Programmer and Narrative Designer. I've loved writing and game design for as long as I can remember which drew me to learn Game Programming at the Academy of Interactive Entertainment.
 
 
 #### Links
@@ -23,3 +23,4 @@ Taverner is an arcade inspired drink serving game where the player must serve be
 I developed the Movement, Drink Serving, and Point Systems present in game.
 
 * [Repository](https://github.com/CamRobinson1103/Taverner)
+* [Itch.io Page](https://lthan.itch.io/taverner)
