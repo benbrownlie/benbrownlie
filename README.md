@@ -4,7 +4,7 @@ Hello I'm Benjamin, I'm a Game Programmer and Narrative Designer. I've loved wri
 
 #### Links
 * [LinkedIn](https://www.linkedin.com/in/benjamin-brownlie)
-* [Resume](https://raw.githubusercontent.com/benbrownlie/benbrownlie/Assets/Images/Resume.pdf)
+* [Resume](https://raww.githubusercontent.com/file:///C:/Users/s208049/Documents/Projects/benbrownlie/Assets/Images/Resume.pdf)
 
 ## Projects
 
